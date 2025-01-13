@@ -1,0 +1,48 @@
+{
+  "profesores": [
+    {
+      "nombre": "brayan",
+      "apellido": "Esteves",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "pedro",
+      "apellido": "perez",
+      "promedio": 4.5
+    },
+    {
+      "nombre": "messi",
+      "apellido": "gucitinni",
+      "promedio": 3.5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "nodeJs desde cero",
+      "duracion": "7",
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": "5",
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": "6",
+      "dificultad": "intermedia"
+    }
+  ]
+}

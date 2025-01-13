@@ -1,0 +1,22 @@
+{
+  "name": "js-practica",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0",
+    "express": "^4.21.2",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
